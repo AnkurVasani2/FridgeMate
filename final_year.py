@@ -46,7 +46,7 @@ def csv_to_dict(csv_file):
             data_dict = [row for row in reader]
             return data_dict
     except FileNotFoundError:
-        print(f"Error: File not found at  '{csv_file}'")
+        print(f"Error: File not found at '{csv_file}'")
         return None
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
