@@ -1,0 +1,23 @@
+names:
+- Apple
+- Beans
+- Fresh_Capsicum
+- Fresh_Carrot
+- Fresh_Spinach
+- Fresh_tomato
+- Pomogrenate
+- Spinach
+- Stale_Capsicum
+- Stale_Carrot
+- Stale_tomato
+- carrot
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: vegetables-fruits
+  url: https://universe.roboflow.com/finalyear-si3mc/vegetables-fruits/dataset/1
+  version: 1
+  workspace: finalyear-si3mc
+test: ../test/images
+train: /content/datasets/final_year_final_train-1/train/images
+val: /content/datasets/final_year_final_train-1/valid/images
