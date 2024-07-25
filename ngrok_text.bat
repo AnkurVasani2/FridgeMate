@@ -1,1 +1,0 @@
-ngrok http --domain=meerkat-saving-seriously.ngrok-free.app 5000
