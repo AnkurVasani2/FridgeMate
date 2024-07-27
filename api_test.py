@@ -37,7 +37,7 @@ def open_in_google_maps(place_id):
   # This might not work on all systems, explore platform-specific options for launching
 
 # Example Usage (replace with your API key and location)
-your_api_key = "AIzaSyCdImDALylBQQ6SNLy_BtzwYkschi-xfQg"
+your_api_key = ""
 your_location = "19.266309458257684, 72.87160523923795"
 
 # Find nearest supermarket
